@@ -14,8 +14,9 @@ This repository contains Python scripts that showcase different functionalities 
 
 ## Installation Instructions
 
+No need to install random, as it comes installed in python.
 To use the examples in this project, you need to have Python and the NumPy library installed. You can install NumPy using pip:
-No need to install random as its already installed in python just import it.
+
 ```bash
 pip install numpy
 
